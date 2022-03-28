@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        // Нужно нарисовать ромб. Сначала выводом - как в индусском учебнике программирования, потом циклом и более сложным способом
+
         // Старый способ:
         System.out.println();
         System.out.println("    *");
